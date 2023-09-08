@@ -7,7 +7,9 @@ var car= {
     model:"55",
     year: "2023",
 }
-
+function addTwo (number){
+    console.log(number+2);
+}
 function outputsomething (output){
     console.log("you wrote " + output);
 }
