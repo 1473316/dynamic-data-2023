@@ -5,8 +5,6 @@ const port = process.env.PORT || 4000;
 
 const server = http.createServer((request,response) => {
 //Get the url
-const path = request.url;
-
 if((path == "") || (path == "/")) {
     response.writeHead(200 , { "Content-Type" : "Text/Plain "})
     response.end ("Home Page")
