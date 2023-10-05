@@ -13,6 +13,9 @@ app.engine('handlebars',expressHandlebars.engine({
 app.set('view engine','handlebars')
 //ends handlebar configuration
 
+//Static files or folders are speicified before any route
+app.use(express.static(__dirname + "/public"))
+
 const port = process.env.port || 3000;
 //Routes go before 404 and 500
 
@@ -21,13 +24,17 @@ app.get('/',(req,res)=>{
 })
 
 app.get('/about',(req,res)=>{
-    res.render('about')
+    res.render('about', {
+        title:"About Miami",
+        pageTitle:"About Miami Travel",
+        image:"1.jpg",
+        description:"Miami is a beautiful city"
+    })
 })
 //This generates an error because the parameter names don't match
 //request should be res
-app.get('/nightlife',(request,response)=>{
-    res.type('text/plain')
-    res.send('Miami at Night')  
+app.get('/nightlife',(req,res)=>{
+   res.render('nightlife') 
 })
 
 //Error handling --> app.use() basic express route 
