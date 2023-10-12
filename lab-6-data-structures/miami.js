@@ -24,6 +24,11 @@ app.get('/',(req,res)=>{
     res.render('page',{data})
 })
 
+app.get('/sunday',(req,res)=>{
+    var data = require('./data/sunday-data.json')
+    res.render('page',{data})
+})
+
 app.get('/about',(req,res)=>{
     res.render('about', {
         title:"About Miami",
