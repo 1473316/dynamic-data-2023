@@ -13,19 +13,31 @@ app.engine('handlebars',expressHandlebars.engine({
 app.set('view engine','handlebars')
 //ends handlebar configuration
 
-//Static files or folders are speicified before any route
+//Static files or folders are specified before any route
 app.use(express.static(__dirname + "/public"))
 
 const port = process.env.port || 3000;
 //Routes go before 404 and 500
+//require gallery outside the view because we will use the same in all get requests
+const gallery = require('./data/gallery.json')
 
 app.get('/',(req,res)=>{
     var data = require('./data/home-data.json')
-    res.render('page',{data})
+    res.render('page',{data, gallery})
 })
 
 app.get('/sunday',(req,res)=>{
     var data = require('./data/sunday-data.json')
+    res.render('page',{data})
+})
+
+app.get('/mordor',(req,res)=>{
+    var data = require('./data/mordor-data.json')
+    res.render('page',{data})
+})
+
+app.get('/rohan',(req,res)=>{
+    var data = require('./data/mordor-data.json')
     res.render('page',{data})
 })
 

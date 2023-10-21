@@ -1,0 +1,32 @@
+{
+    "title":"Mordor",
+       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus assumenda natus magni cumque necessitatibus recusandae ratione, officiis facilis temporibus tempore, harum soluta nam. Reiciendis, blanditiis animi dignissimos nulla modi facere?",
+    "slideshow":[
+        "/img/slides/rohan1.jpg",
+        "/img/slides/rohan2.jpg",
+        "/img/slides/rohan3.jpg" 
+    ],
+    "services":[
+        {
+            "title":"Hakatere Conservation Park",
+            "intro":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam iste iure suscipit similique necessitatibus, minima dolorum odit recusandae. Adipisci dignissimos unde repellendus alias culpa eaque, molestiae enim voluptatibus iusto quam?",
+            "lists":[
+                "Service 1",
+                "Service 2",
+                "Service 3"
+            ],
+            "image":"/img/sundaypage/horses.jpg",
+            "show":"show"
+        },
+        {
+            "title":" Rangitata River",
+            "intro":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "lists":[
+                "Service 1",
+                "Service 2",
+                "Service 3"
+            ],
+            "image":"/img/sundaypage/river.jpg"
+        }
+    ]
+}

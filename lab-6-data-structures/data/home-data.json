@@ -1,5 +1,6 @@
 {
     "title":"Welcome to Miami - From data source",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus assumenda natus magni cumque necessitatibus recusandae ratione, officiis facilis temporibus tempore, harum soluta nam. Reiciendis, blanditiis animi dignissimos nulla modi facere?",
     "slideshow":[
         "/img/slides/skyline.jpg",
         "/img/slides/bayside.jpg",
@@ -14,7 +15,8 @@
                 "Service 2",
                 "Service 3"
             ],
-            "image":"/img/homepage/transportation.jpg"
+            "image":"/img/homepage/transportation.jpg",
+            "show":"show"
         },
         {
             "title":"Tours",
@@ -25,6 +27,56 @@
                 "Service 3"
             ],
             "image":"/img/homepage/tours.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Fanghorn",
+            "image":"/img/homepage/Forest.jpg",
+            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "price":"1500",
+            "duraiton":"1 Day"
+
+        },
+        {
+            "title":"Mount Sunday",
+            "image":"/img/homepage/MSunday.jpg",
+            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "price":"500",
+            "duraiton":"3 Day"
+
+        },
+        {
+            "title":"Mordor",
+            "image":"/img/homepage/Mordor.jpg",
+            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "price":"3300",
+            "duraiton":"4 Day"
+
+        },
+        {
+            "title":"The Shire",
+            "image":"/img/homepage/Shire.jpg",
+            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "price":"100",
+            "duraiton":"1 Day"
+
+        },
+        {
+            "title":"Helms Deep",
+            "image":"/img/homepage/HelmsDeep.jpg",
+            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "price":"40",
+            "duraiton":"6 Day"
+
+        },
+        {
+            "title":"Isengard",
+            "image":"/img/homepage/Isengard.jpg",
+            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "price":"4000",
+            "duraiton":"2 Day"
+
         }
     ]
 }

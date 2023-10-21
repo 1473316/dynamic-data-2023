@@ -7,10 +7,62 @@
 
 .oswald {font-family: 'Oswald', 'sans-serif'; font-weight: 700}
 
-body {
-    background-color: #CCCCCC; 
-}
 
 .white-bg{
     background-color: #ffffff;
+}
+
+.primary-color{
+ color: #887727
+}
+.primary-color-light, nav .secondary-color-light:hover{
+    color: #828228
+}
+
+.accordion-button:not(.collapsed) {
+    color: #FFFFAA;
+    background-color: #403075;
+   
+}
+
+.primary-color-bg{
+    background-color: #887727
+   }
+.primary-color-light-bg{
+    background-color: #828228
+   }
+
+.secondary-color{
+    color: #C4A200
+}
+
+.secondary-color-light{
+    color: #EEEEE4
+}
+
+.secondary-color-bg{
+    background-color: #C4A200
+}
+
+.secondary-color-light-bg{
+   background-color: #EEEEE4
+}
+
+/* Remove owl nav previous and next buttons*/
+.owl-nav{
+    display: none;
+}
+
+.section-divider{
+    padding: 1rem;
+}
+
+.gallery-img img{
+    object-fit:cover;
+    height: 20rem;
+    aspect-ratio:1 / 1;
+}
+
+footer{
+    padding: 3rem;
 }
