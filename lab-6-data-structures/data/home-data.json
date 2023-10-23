@@ -1,6 +1,6 @@
 {
-    "title":"Welcome to Miami - From data source",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus assumenda natus magni cumque necessitatibus recusandae ratione, officiis facilis temporibus tempore, harum soluta nam. Reiciendis, blanditiis animi dignissimos nulla modi facere?",
+    "title":"Welcome to Middle-Earth",
+    "description": "Middle-Earth is a treasure trove of cultures and peoples. From hobbits to elves to men to dwarves, there's no telling what you might find just around the corner. Visit the dwarven mines of Moria, sleep under the eaves of Lothlorien, or ory in the greatness of Gondor.",
     "slideshow":[
         "/img/slides/skyline.jpg",
         "/img/slides/bayside.jpg",
@@ -9,22 +9,22 @@
     "services":[
         {
             "title":"Transportation",
-            "intro":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam iste iure suscipit similique necessitatibus, minima dolorum odit recusandae. Adipisci dignissimos unde repellendus alias culpa eaque, molestiae enim voluptatibus iusto quam?",
+            "intro":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
             "lists":[
-                "Service 1",
-                "Service 2",
-                "Service 3"
+                "Eagles (destination Mount Doom not avaliable)",
+                "Walking",
+                "Rohan Horses"
             ],
             "image":"/img/homepage/transportation.jpg",
             "show":"show"
         },
         {
             "title":"Tours",
-            "intro":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "intro":"Althought Middle-Earth doesn't get many tourists, those tours that are offered are renowed for their colourful guides and the life-changing/threatening journey the customer embarks upon.",
             "lists":[
-                "Service 1",
-                "Service 2",
-                "Service 3"
+                "Keep it Secret Keep it Safe Tours",
+                "They're Taking the Hobbits to Isengard Tours",
+                "Ride to Helm's Deep Tours"
             ],
             "image":"/img/homepage/tours.jpg"
         }

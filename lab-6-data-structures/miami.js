@@ -28,17 +28,22 @@ app.get('/',(req,res)=>{
 
 app.get('/sunday',(req,res)=>{
     var data = require('./data/sunday-data.json')
-    res.render('page',{data})
+    res.render('page',{data, gallery})
 })
 
 app.get('/mordor',(req,res)=>{
     var data = require('./data/mordor-data.json')
-    res.render('page',{data})
+    res.render('page',{data, gallery})
 })
 
 app.get('/rohan',(req,res)=>{
-    var data = require('./data/mordor-data.json')
-    res.render('page',{data})
+    var data = require('./data/rohan-data.json')
+    res.render('page',{data, gallery})
+})
+
+app.get('/shire',(req,res)=>{
+    var data = require('./data/shire-data.json')
+    res.render('page',{data, gallery})
 })
 
 app.get('/about',(req,res)=>{

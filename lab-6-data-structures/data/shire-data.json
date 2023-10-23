@@ -1,0 +1,82 @@
+{
+    "title":"The Shire",
+       "description": "The Shire is a lovely little valley located in the East of Middle-Earth. Home to halfings called Hobbits?",
+    "slideshow":[
+        "/img/slides/rohan1.jpg",
+        "/img/slides/rohan2.jpg",
+        "/img/slides/rohan3.jpg" 
+    ],
+    "services":[
+        {
+            "title":"Food and Drink",
+            "intro":"There are many wonderful places to grab a bite to eat at the Shire. Not only is the food amazing, but the colourful company is sure to keep you entertained. And be sure to remember...they come in pints! ",
+            "lists":[
+                "Breakfeast at Merry's",
+                "Elevensy's at Merry's",
+                "Afternoon Tea at Merry's"
+            ],
+            "image":"/img/sundaypage/horses.jpg",
+            "show":"show"
+        },
+        {
+            "title":"Shopping",
+            "intro":"Although there is not an abundance of storefronts in the Shire, the ones that are there, are known for their wonderful, if slightly cranky customer service and brilliant array of treasures.",
+            "lists":[
+                "Dragon's Treasure Chest",
+                "We Know You've Got Gold",
+                "Bilbo Give Us Money"
+            ],
+            "image":"/img/sundaypage/river.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Bilbo Baggin's Birthday",
+            "image":"/img/homepage/Forest.jpg",
+            "text":"You heard right! It's Bilbo Baggin's eleven hundred and eleventy-ith birthday! Come down to the meadow and celebrate with drink and dance, not to mention fireworks provided by Gandalf himself. Finally, stay tuned for a speech by Bilbo himself...with a special surprise at the end!",
+            "price":"1500",
+            "duraiton":"1 Day"
+
+        },
+        {
+            "title":"Gamgee's Garden",
+            "image":"/img/homepage/MSunday.jpg",
+            "text":"Whose the best gardener this side of the Shire? Sam Gamgee that's who! Enjoy a wonderful afternoon gardening with Sam and learn the subtlties of tending to a flower bed and eves-dropping under your employers window. Fingers crossed you don't get turned into anything...unnatural.",
+            "price":"500",
+            "duraiton":"3 Day"
+
+        },
+        {
+            "title":"McGregor's Farm",
+            "image":"/img/homepage/Mordor.jpg",
+            "text":"Farmer McGregor's crop is known for having the tasted, juciest vegatables in the whole of the Shire. Spend and afternoon pilfering his crop. Fill your arms with as many carrots, cabbages, and onions as you can manage and run, Merry, run!",
+            "price":"3300",
+            "duraiton":"4 Day"
+
+        },
+        {
+            "title":"Black Rider Hike",
+            "image":"/img/homepage/Shire.jpg",
+            "text":"Take a lovely hike along the road to the ferry with a horde of Black Riders on your heel. Take in the sights as you flee for you life, and whatever you do, keep your hands off your jewlery!",
+            "price":"100",
+            "duraiton":"1 Day"
+
+        },
+        {
+            "title":"Bombadil's House",
+            "image":"/img/homepage/HelmsDeep.jpg",
+            "text":"Take a extremeley random detour which will no doubt end up being your favorite part of your trip! Spend some time in Bombadil's House and treat yourself to hours of non stop poetry as well as bushels of unexplicably potent magical abilities that will never be explained in your lifetime",
+            "price":"40",
+            "duraiton":"6 Day"
+
+        },
+        {
+            "title":"Gildor's Retreat",
+            "image":"/img/homepage/Isengard.jpg",
+            "text":"On the edge of the Shire, rest your weary legs with Gildor's company. Allow the elves to serenade you with their song, and calm you with their ethereal quality.",
+            "price":"4000",
+            "duraiton":"2 Day"
+
+        }
+    ]
+}
