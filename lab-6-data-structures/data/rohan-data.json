@@ -19,62 +19,82 @@
             "show":"show"
         },
         {
-            "title":" Rangitata River",
-            "intro":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "title":"Performances",
+            "intro":"Drama certainly has its place in Rohan. Come join the people of the Riddermark for some dramatic sequences performed live right before your eyes.",
             "lists":[
-                "Service 1",
-                "Service 2",
-                "Service 3"
+                "I Told You to Take the Wizard's Staff- the Play",
+                "What News From the Riddermark - Synchronized Riding",
+                "Goodbye Wormtongue - the Public Denouncement"
             ],
-            "image":"/img/sundaypage/river.jpg"
+            "image":"/img/rohan/theatre.jpg"
+        },
+        {
+            "title":"Battles",
+            "intro":"In time of war, every able man was obliged to join the Muster of Rohan. Rohan was bound by the Oath of Éorl to help Gondor in times of peril, and the latter asked for their aid through the giving of the Red Arrow. This has a historical antecedent in the Old English poem Elene, in which Constantine the Great summoned an army of mounted Visigoths to his aid against the Huns",
+            "lists":[
+                "March Against the White Tower",
+                "Where Was Gondor When the Westfold Fell",
+                "Battle at Minas Tirith"
+            ],
+            "image":"/img/rohan/battle.jpg"
+        },
+        {
+            "title":"Language Lessons",
+            "intro":"Learn something new everyday and begin your education in the language of Rohan. generally called  simply the language of Rohan or of the Rohirrim. The adjectival form Rohirric is common",
+            "lists":[
+                "Teacher Theoden",
+                "Teacer Eowyn",
+                "Teacher Eowen"
+            ],
+            "image":"/img/rohan/language.jpg"
         }
     ],
     "packages":[
         {
-            "title":"Fanghorn",
-            "image":"/img/homepage/Forest.jpg",
-            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
-            "price":"1500",
+            "title":"Helm's Deep",
+            "image":"/img/homepage/HelmsDeep.jpg",
+            "text":"Visit this great hold of the Riddermark, also known as Hornburg. Helm's Deep is a great feat of engineering, except for that one drainage grate near the bottom. In all of the years it has stood it has never been broken except that one time. Visit Helm's Deep and know that you are safe behind its wall. And even if you are not, Gandalf will come on the fifth day.",
+            "price":"1400",
+            "duraiton":"5 Days"
+
+        },
+        {
+            "title":"The Stables",
+            "image":"/img/rohan/stable.jpg",
+            "text":"One cannot visit Rohan without also visiting the stables. Come brush the mane of the great horse king Shadowfax, that is, if Gandalf has not already taken him.",
+            "price":"500",
             "duraiton":"1 Day"
 
         },
         {
-            "title":"Mount Sunday",
-            "image":"/img/homepage/MSunday.jpg",
-            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
-            "price":"500",
-            "duraiton":"3 Day"
-
-        },
-        {
-            "title":"Mordor",
-            "image":"/img/homepage/Mordor.jpg",
-            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "title":"The Throne Room",
+            "image":"/img/rohan/throne.jpg",
+            "text":"Stay in the King Theoden's great Throne Room, a beautiful hall full of tapestries and the like. Watch out for a grimy little man at the foot of the throne. Eagerly await the arrival of the fractured Fellowship and a wonderful display of the White Wizard's power.",
             "price":"3300",
-            "duraiton":"4 Day"
+            "duraiton":"4 Days"
 
         },
         {
-            "title":"The Shire",
-            "image":"/img/homepage/Shire.jpg",
-            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "title":"War of the Wargs",
+            "image":"/img/rohan/wargs.jpg",
+            "text":"Take a lovely ride with Aragorn, Legolas and the people of Rohan on the road to Helm's Deep. Endure an ambush of Wargs and fight for life. Participants are advised to stay far away from the ledges of cliffs unless they have unusally faithful steads.",
             "price":"100",
             "duraiton":"1 Day"
 
         },
         {
-            "title":"Helms Deep",
-            "image":"/img/homepage/HelmsDeep.jpg",
-            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
+            "title":"Eomer's Trek",
+            "image":"/img/rohan/eomer.jpg",
+            "text":"Accomapny Eomer as he is banished from the only home he has every known and sets out to begin his life in exile. Ride with the other faithfuls and take on orc hordes. ",
             "price":"40",
             "duraiton":"6 Day"
 
         },
         {
-            "title":"Isengard",
-            "image":"/img/homepage/Isengard.jpg",
-            "text":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem voluptatum laborum ad sit vitae dolorum officiis rem earum optio temporibus in, culpa unde error perspiciatis quas saepe nesciunt. Ab, voluptatum!",
-            "price":"4000",
+            "title":"Barrowfield of the King's of Rohan",
+            "image":"/img/rohan/grave.jpg",
+            "text":"Visit the Barrofields with King Theoden himself and listen to a lovely educational presentation about the flowers which grow over said graves and what their symbolic significance is.",
+            "price":"3000",
             "duraiton":"2 Day"
 
         }

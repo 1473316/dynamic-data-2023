@@ -26,13 +26,13 @@ app.get('/',(req,res)=>{
     res.render('page',{data, gallery})
 })
 
-app.get('/sunday',(req,res)=>{
-    var data = require('./data/sunday-data.json')
+app.get('/moria',(req,res)=>{
+    var data = require('./data/moria-data.json')
     res.render('page',{data, gallery})
 })
 
-app.get('/mordor',(req,res)=>{
-    var data = require('./data/mordor-data.json')
+app.get('/rivendell',(req,res)=>{
+    var data = require('./data/rivendell-data.json')
     res.render('page',{data, gallery})
 })
 

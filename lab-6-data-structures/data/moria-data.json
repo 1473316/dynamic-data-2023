@@ -1,0 +1,100 @@
+{
+    "title":"The Mines of Moria",
+    "slideshow":[
+        "/img/slides/rohan1.jpg",
+        "/img/slides/rohan2.jpg",
+        "/img/slides/rohan3.jpg" 
+    ],
+    "services":[
+        {
+            "title":"Marathons",
+            "intro":"Stetch your legs with the many marathons that Moria has to offer. Just when you think you're done running, something else jumps out of the shadow and its time to book it! Leap over crumbling stair cases and try not to drown in the black lake!",
+            "lists":[
+                "Moria Marathon",
+                "Orc Run",
+                "Goblin Run"
+            ],
+            "image":"/img/moria/marathon.jpg"
+        },
+        {
+            "title":"Tours",
+            "intro":"Embark on a dark, scary, and not very relaxing tour through the Mines of Moria, led by the Wizard Gandalf who may or may not know where he is going. Participants should be aware that they will be abandoned at the final leg of the jounrey with insufficient time to mourn the loss.",
+            "lists":[
+                "Gandlaf's Tours",
+                "When In Doubt Follow Your Nose",
+                "This Way Probably"
+            ],
+            "image":"/img/moria/maps.jpg"
+        },
+        {
+            "title":"Currency Exchange",
+            "intro":"Do you find yourself in possesion of coins, gold pieces, galleons, that you need to exchange? Visit the Moria Bank and exchange all types of currency for pure dwarven gold. You can be sure that you'll be getting your money's worth.",
+            "lists":[
+                "Delving Deep",
+                "Money of Moria",
+                "Gold and More Gold"
+            ],
+            "image":"/img/moria/money.jpg"
+        },
+        {
+            "title":"Archery Ranges",
+            "intro":"Moria is full of wonderful locations to practice your archery skills. Around every corner, there's a chance you'll find a goblin or orc peaking back at you. So load up your quiver and fire away!",
+            "lists":[
+                "Legolas vs Gimili Range",
+                "I Won't Be Beat by an Elf Range",
+                "I Ran Out of Arrows Range"
+            ],
+            "image":"/img/moria/archery.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"The Last Stand",
+            "image":"/img/moria/stand.jpg",
+            "text":"For one heart pounding night, stand on the grave of Gimli's cousin an dmake your last stand against an army of orcs...not to mention a terrible troll. Make sure you pack your mithril and plenty of arrows. ",
+            "price":"1500",
+            "duraiton":"1 Day"
+
+        },
+        {
+            "title":"Drums in the Deep",
+            "image":"/img/moria/drums.jpg",
+            "text":"Come join the dawrves of Moria for this wodnerful three day musical experience. Each day, hear the dulcet sounds of drums in the dep as they pound out the promise of your death. If you're brave enough, join in the music macking, and drop a rock down the well to make your own percussive souds.",
+            "price":"500",
+            "duraiton":"3 Day"
+
+        },
+        {
+            "title":"You Shall Not Pass",
+            "image":"/img/moria/balrog.jpg",
+            "text":"Come for this four day immersive theatrical experience. Wittness Gandalf himself run around his bathrobe and wage battle against the darkness himself. You'll feel as if the action is right in front of you in the dramatic interpretation of the Balrog's stand against the Grey Wizard.",
+            "price":"3300",
+            "duraiton":"4 Day"
+
+        },
+        {
+            "title":"Star Wars Excursion",
+            "image":"/img/moria/compactor.jpg",
+            "text":"Take a break from Middle Earth with this Star Wars excursion, as you take a swim in the lake outside Moria and fight off the terrible tentical-legged see creature that resides within the black waters. You're sure to feel like your name is Luke Skywalker instead of Frodo Baggins!",
+            "price":"100",
+            "duraiton":"1 Day"
+
+        },
+        {
+            "title":"Fool of a Took",
+            "image":"/img/moria/well.jpg",
+            "text":"Come experience a rap battle between the Grey Wizard Gandalf and Merry Took. Cheer as Gandalf verablly lays in to the poor old hobbit who looks sheepishly around and tries despserately to think of something to say.",
+            "price":"40",
+            "duraiton":"` Day"
+
+        },
+        {
+            "title":"The Pity of Bilbo",
+            "image":"/img/moria/gollum.jpg",
+            "text":"Come learn the important of pity in this two day TedTalk led by Sauraman and Gandalf. It is important to note that the former may not give the best advicec but the latter has many nuggets of wisdom to share to those willing about how to live your most fufilling life when you are being stalked by a slimy grey creature.",
+            "price":"4000",
+            "duraiton":"2 Day"
+
+        }
+    ]
+}
