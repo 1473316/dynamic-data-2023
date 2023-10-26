@@ -63,7 +63,7 @@
             "image":"/img/rivendell/healing.jpg",
             "text":"Have you had a long day? Does it feel like an undead Ring Wraith has driven its sword into your shoulder? Come visit Arwen's Health and Healing retreat. Allow elven minstrations to take you to world of relaxation.",
             "price":"500",
-            "duration":"3 Day"
+            "duration":"3 Days"
 
         },
         {
@@ -87,7 +87,7 @@
             "image":"/img/rivendell/fashion.jpg",
             "text":"Wittness the arrival of the Fellowship as Legolas the Elf, Gimli the Dwarf, Boromir the Man, and Aragorn the King ride in stately fashion into Rivendell to meet the Ring Bearer.",
             "price":"40",
-            "duration":"6 Day"
+            "duration":"6 Days"
 
         },
         {
