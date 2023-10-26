@@ -1,24 +1,27 @@
 {
     "title":"The Mines of Moria",
+    "description": "The Mines of Moria are otherwise known as Khazum-Dum or Dwarrowdelf. Moria is a Kingdom which resides beenath the Misty Mountains and is home to a vast population of dwarves who delve deep into its depths to retrieve precious ore. ",
     "slideshow":[
-        "/img/slides/rohan1.jpg",
-        "/img/slides/rohan2.jpg",
-        "/img/slides/rohan3.jpg" 
+        "/img/moria/moria_a.jpg",
+        "/img/moria/moria_b.jpg",
+        "/img/moria/moria_c.jpg" 
     ],
     "services":[
         {
             "title":"Marathons",
-            "intro":"Stetch your legs with the many marathons that Moria has to offer. Just when you think you're done running, something else jumps out of the shadow and its time to book it! Leap over crumbling stair cases and try not to drown in the black lake!",
+            "intro":"Stetch your legs with the many marathons that Moria has to offer. Just when you think you're done running, something else jumps out of the shadows and its time to book it! Leap over crumbling stair cases and try not to drown in the black lake!",
             "lists":[
                 "Moria Marathon",
                 "Orc Run",
                 "Goblin Run"
             ],
-            "image":"/img/moria/marathon.jpg"
+            "image":"/img/moria/marathon.jpg",
+            "show":"show"
+            
         },
         {
             "title":"Tours",
-            "intro":"Embark on a dark, scary, and not very relaxing tour through the Mines of Moria, led by the Wizard Gandalf who may or may not know where he is going. Participants should be aware that they will be abandoned at the final leg of the jounrey with insufficient time to mourn the loss.",
+            "intro":"Embark on a dark, scary, and not very relaxing tour through the Mines of Moria, led by the Wizard Gandalf who may or may not know where he is going. Participants should be aware that they will be abandoned at the final leg of the jounrey with insufficient time to mourn their loss.",
             "lists":[
                 "Gandlaf's Tours",
                 "When In Doubt Follow Your Nose",
@@ -51,7 +54,7 @@
         {
             "title":"The Last Stand",
             "image":"/img/moria/stand.jpg",
-            "text":"For one heart pounding night, stand on the grave of Gimli's cousin an dmake your last stand against an army of orcs...not to mention a terrible troll. Make sure you pack your mithril and plenty of arrows. ",
+            "text":"For one heart pounding night, stand on the grave of Gimli's cousin and make your last stand against an army of orcs...not to mention a terrible troll. Make sure you pack your mithril and plenty of arrows. ",
             "price":"1500",
             "duration":"1 Day"
 
@@ -59,7 +62,7 @@
         {
             "title":"Drums in the Deep",
             "image":"/img/moria/drums.jpg",
-            "text":"Come join the dawrves of Moria for this wodnerful three day musical experience. Each day, hear the dulcet sounds of drums in the dep as they pound out the promise of your death. If you're brave enough, join in the music macking, and drop a rock down the well to make your own percussive souds.",
+            "text":"Come join the dawrves of Moria for this wodnerful three day musical experience. Each day, hear the dulcet sounds of drums in the deep as they pound out the promise of your death. If you're brave enough, join in the music making, and drop a rock down the well to make your own percussive souds.",
             "price":"500",
             "duration":"3 Day"
 
@@ -83,7 +86,7 @@
         {
             "title":"Fool of a Took",
             "image":"/img/moria/well.jpg",
-            "text":"Come experience a rap battle between the Grey Wizard Gandalf and Merry Took. Cheer as Gandalf verablly lays in to the poor old hobbit who looks sheepishly around and tries despserately to think of something to say.",
+            "text":"Come experience a rap battle between the Grey Wizard Gandalf and Merry Took. Cheer as Gandalf verbally lays in to the poor old hobbit who looks sheepishly around and tries desperately to think of something to say.",
             "price":"40",
             "duration":"` Day"
 
@@ -91,7 +94,7 @@
         {
             "title":"The Pity of Bilbo",
             "image":"/img/moria/gollum.jpg",
-            "text":"Come learn the important of pity in this two day TedTalk led by Sauraman and Gandalf. It is important to note that the former may not give the best advicec but the latter has many nuggets of wisdom to share to those willing about how to live your most fufilling life when you are being stalked by a slimy grey creature.",
+            "text":"Come learn the importance of pity in this two day TedTalk led by Sauraman and Gandalf. It is important to note that the former may not give the best advicec but the latter has many nuggets of wisdom to share to those willing about how to live your most fufilling life when you are being stalked by a slimy grey creature.",
             "price":"4000",
             "duration":"2 Day"
 

@@ -1,6 +1,6 @@
 {
     "title":"The Shire",
-       "description": "The Shire is a lovely little valley located in the East of Middle-Earth. Home to halfings called Hobbits?",
+       "description": "The Shire is a lovely little valley located in the East of Middle-Earth. Home to halfings called Hobbits, it is comprised of rolling hills and valleys full of flowers. The denizens are incredibly friendly and all are content. Nestled in the far reaches of Middle-Earth, it is a perfect haven for those looking for some peace and tranquility.",
     "slideshow":[
         "/img/shire/shire_1.jpg",
         "/img/shire/shire_2.jpeg",
@@ -11,7 +11,7 @@
             "title":"Food and Drink",
             "intro":"There are many wonderful places to grab a bite to eat at the Shire. Not only is the food amazing, but the colourful company is sure to keep you entertained. And be sure to remember...they come in pints! ",
             "lists":[
-                "Breakfeast at Merry's",
+                "Breakfast at Merry's",
                 "Elevensy's at Merry's",
                 "Afternoon Tea at Merry's"
             ],
