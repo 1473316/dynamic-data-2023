@@ -55,7 +55,7 @@
             "image":"/img/shire/birthday.jpg",
             "text":"You heard right! It's Bilbo Baggin's eleven hundred and eleventy-ith birthday! Come down to the meadow and celebrate with drink and dance, not to mention fireworks provided by Gandalf himself. Finally, stay tuned for a speech by Bilbo himself...with a special surprise at the end!",
             "price":"1500",
-            "duraiton":"1 Day"
+            "duration":"1 Day"
 
         },
         {
@@ -63,7 +63,7 @@
             "image":"/img/shire/garden.jpg",
             "text":"Whose the best gardener this side of the Shire? Sam Gamgee that's who! Enjoy a wonderful afternoon gardening with Sam and learn the subtlties of tending to a flower bed and eves-dropping under your employers window. Fingers crossed you don't get turned into anything...unnatural.",
             "price":"500",
-            "duraiton":"3 Day"
+            "duration":"3 Day"
 
         },
         {
@@ -71,7 +71,7 @@
             "image":"/img/shire/carrots.jpg",
             "text":"Farmer McGregor's crop is known for having the tasted, juciest vegatables in the whole of the Shire. Spend and afternoon pilfering his crop. Fill your arms with as many carrots, cabbages, and onions as you can manage and run, Merry, run!",
             "price":"3300",
-            "duraiton":"4 Day"
+            "duration":"4 Day"
 
         },
         {
@@ -79,7 +79,7 @@
             "image":"/img/shire/riders.jpg",
             "text":"Take a lovely hike along the road to the ferry with a horde of Black Riders on your heel. Take in the sights as you flee for you life, and whatever you do, keep your hands off your jewlery!",
             "price":"100",
-            "duraiton":"1 Day"
+            "duration":"1 Day"
 
         },
         {
@@ -87,7 +87,7 @@
             "image":"/img/shire/bombadil.jpg",
             "text":"Take a extremeley random detour which will no doubt end up being your favorite part of your trip! Spend some time in Bombadil's House and treat yourself to hours of non stop poetry as well as bushels of unexplicably potent magical abilities that will never be explained in your lifetime",
             "price":"40",
-            "duraiton":"6 Day"
+            "duration":"6 Day"
 
         },
         {
@@ -95,7 +95,7 @@
             "image":"/img/shire/gildor.jpg",
             "text":"On the edge of the Shire, rest your weary legs with Gildor's company. Allow the elves to serenade you with their song, and calm you with their ethereal quality.",
             "price":"4000",
-            "duraiton":"2 Day"
+            "duration":"2 Day"
 
         }
     ]

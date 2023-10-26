@@ -30,7 +30,7 @@
         },
         {
             "title":"Battles",
-            "intro":"In time of war, every able man was obliged to join the Muster of Rohan. Rohan was bound by the Oath of Éorl to help Gondor in times of peril, and the latter asked for their aid through the giving of the Red Arrow. This has a historical antecedent in the Old English poem Elene, in which Constantine the Great summoned an army of mounted Visigoths to his aid against the Huns",
+            "intro":"When war comes to Rohan, every man, woman, and child stands togther. Take up arms with your brethren and hold against the enemy for an unforgettable night of sweat, blood, and tears...no matter how short that night is.",
             "lists":[
                 "March Against the White Tower",
                 "Where Was Gondor When the Westfold Fell",
@@ -55,7 +55,7 @@
             "image":"/img/homepage/HelmsDeep.jpg",
             "text":"Visit this great hold of the Riddermark, also known as Hornburg. Helm's Deep is a great feat of engineering, except for that one drainage grate near the bottom. In all of the years it has stood it has never been broken except that one time. Visit Helm's Deep and know that you are safe behind its wall. And even if you are not, Gandalf will come on the fifth day.",
             "price":"1400",
-            "duraiton":"5 Days"
+            "duration":"5 Days"
 
         },
         {
@@ -63,7 +63,7 @@
             "image":"/img/rohan/stable.jpg",
             "text":"One cannot visit Rohan without also visiting the stables. Come brush the mane of the great horse king Shadowfax, that is, if Gandalf has not already taken him.",
             "price":"500",
-            "duraiton":"1 Day"
+            "duration":"1 Day"
 
         },
         {
@@ -71,7 +71,7 @@
             "image":"/img/rohan/throne.jpg",
             "text":"Stay in the King Theoden's great Throne Room, a beautiful hall full of tapestries and the like. Watch out for a grimy little man at the foot of the throne. Eagerly await the arrival of the fractured Fellowship and a wonderful display of the White Wizard's power.",
             "price":"3300",
-            "duraiton":"4 Days"
+            "duration":"4 Days"
 
         },
         {
@@ -79,15 +79,15 @@
             "image":"/img/rohan/wargs.jpg",
             "text":"Take a lovely ride with Aragorn, Legolas and the people of Rohan on the road to Helm's Deep. Endure an ambush of Wargs and fight for life. Participants are advised to stay far away from the ledges of cliffs unless they have unusally faithful steads.",
             "price":"100",
-            "duraiton":"1 Day"
+            "duration":"1 Day"
 
         },
         {
             "title":"Eomer's Trek",
             "image":"/img/rohan/eomer.jpg",
-            "text":"Accomapny Eomer as he is banished from the only home he has every known and sets out to begin his life in exile. Ride with the other faithfuls and take on orc hordes. ",
+            "text":"Accompany Eomer as he is banished from the only home he has every known and sets out to begin his life in exile. Ride with the other faithfulls and take on orc hordes. ",
             "price":"40",
-            "duraiton":"6 Day"
+            "duration":"6 Day"
 
         },
         {
@@ -95,7 +95,7 @@
             "image":"/img/rohan/grave.jpg",
             "text":"Visit the Barrofields with King Theoden himself and listen to a lovely educational presentation about the flowers which grow over said graves and what their symbolic significance is.",
             "price":"3000",
-            "duraiton":"2 Day"
+            "duration":"2 Day"
 
         }
     ]

@@ -53,7 +53,7 @@
             "image":"/img/moria/stand.jpg",
             "text":"For one heart pounding night, stand on the grave of Gimli's cousin an dmake your last stand against an army of orcs...not to mention a terrible troll. Make sure you pack your mithril and plenty of arrows. ",
             "price":"1500",
-            "duraiton":"1 Day"
+            "duration":"1 Day"
 
         },
         {
@@ -61,7 +61,7 @@
             "image":"/img/moria/drums.jpg",
             "text":"Come join the dawrves of Moria for this wodnerful three day musical experience. Each day, hear the dulcet sounds of drums in the dep as they pound out the promise of your death. If you're brave enough, join in the music macking, and drop a rock down the well to make your own percussive souds.",
             "price":"500",
-            "duraiton":"3 Day"
+            "duration":"3 Day"
 
         },
         {
@@ -69,7 +69,7 @@
             "image":"/img/moria/balrog.jpg",
             "text":"Come for this four day immersive theatrical experience. Wittness Gandalf himself run around his bathrobe and wage battle against the darkness himself. You'll feel as if the action is right in front of you in the dramatic interpretation of the Balrog's stand against the Grey Wizard.",
             "price":"3300",
-            "duraiton":"4 Day"
+            "duration":"4 Day"
 
         },
         {
@@ -77,7 +77,7 @@
             "image":"/img/moria/compactor.jpg",
             "text":"Take a break from Middle Earth with this Star Wars excursion, as you take a swim in the lake outside Moria and fight off the terrible tentical-legged see creature that resides within the black waters. You're sure to feel like your name is Luke Skywalker instead of Frodo Baggins!",
             "price":"100",
-            "duraiton":"1 Day"
+            "duration":"1 Day"
 
         },
         {
@@ -85,7 +85,7 @@
             "image":"/img/moria/well.jpg",
             "text":"Come experience a rap battle between the Grey Wizard Gandalf and Merry Took. Cheer as Gandalf verablly lays in to the poor old hobbit who looks sheepishly around and tries despserately to think of something to say.",
             "price":"40",
-            "duraiton":"` Day"
+            "duration":"` Day"
 
         },
         {
@@ -93,7 +93,7 @@
             "image":"/img/moria/gollum.jpg",
             "text":"Come learn the important of pity in this two day TedTalk led by Sauraman and Gandalf. It is important to note that the former may not give the best advicec but the latter has many nuggets of wisdom to share to those willing about how to live your most fufilling life when you are being stalked by a slimy grey creature.",
             "price":"4000",
-            "duraiton":"2 Day"
+            "duration":"2 Day"
 
         }
     ]

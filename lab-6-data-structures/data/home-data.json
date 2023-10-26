@@ -55,7 +55,7 @@
             "image":"/img/homepage/Forest.jpg",
             "text":"Come visit Fanghorn Forest. Sit in on the riveting council of the Ents. Many say there is something in the waters that make the trees here grow tall, but why don't you take a taste and decided for yourself. ",
             "price":"1500",
-            "duraiton":"1 Day"
+            "duration":"1 Day"
 
         },
         {
@@ -63,7 +63,7 @@
             "image":"/img/homepage/MSunday.jpg",
             "text":"Tired of chilly weather? Come warm your hands in the fires of Mount Doom. Climb the sheer sides of the Mountain and try to avoid arachnids along the way. When you finally reach the summit, you might feel like doing a little dance! Kindly, refrain.",
             "price":"500",
-            "duraiton":"3 Day"
+            "duration":"3 Day"
 
         },
         {
@@ -79,7 +79,7 @@
             "image":"/img/homepage/Shire.jpg",
             "text":"A visit to Lothlorien is sure to be like no other. Come have your future told to you in a most distrubing manner by the beautiful lady Galadriel. Replenish your supplies with aid of the lady as well. Finally, listen to the heartwrenching lament of the elves by moonlight. ",
             "price":"100",
-            "duraiton":"1 Day"
+            "duration":"1 Day"
 
         },
         {
@@ -87,7 +87,7 @@
             "image":"/img/homepage/HelmsDeep.jpg",
             "text":"Take your rest at the Prancing Pony as you await your companions. We highly advise you not use your real name when checking in. Drink, dance, and be merry. Make some new friends and watch out for Black Riders when the lights go out!",
             "price":"40",
-            "duraiton":"6 Day"
+            "duration":"6 Day"
 
         },
         {
@@ -95,7 +95,7 @@
             "image":"/img/homepage/Isengard.jpg",
             "text":"Visit the home of the first White Wizard. If you're lucky, you may be able to book the penthouse suite at the top of the tower, where you will be kept possibly against you will. Transportation away from the tower will not be provided. Eagles recommended.",
             "price":"500",
-            "duraiton":"2 Day"
+            "duration":"2 Day"
 
         }
     ]

@@ -30,9 +30,9 @@
         },
         {
             "title":"Rivendell in Concert",
-            "intro":"The Swedish classical composer Anna-Lena Laurin has written a work for two guitars entitled Rivendell[22] The Canadian progressive rock band Rush memorialised the Elvish sanctuary in the song Rivendellon their 1975 studio album Fly by Night. The song focuses on the tranquillity and seemingly endless time a weary traveller could find there,",
+            "intro":"Indulge in countless hours of beautiful music by the elves. Pages upon pages upon pages upon pages of poetry that you feel will never end. But by the time the night is over, you may not want them to.",
             "lists":[
-                "FLy by Night",
+                "Fly by Night",
                 "Rivendell",
                 "Never Trust an Elf"
             ],
@@ -40,7 +40,7 @@
         },
         {
             "title":"Romantic Retreats",
-            "intro":"To enter Rivendell is to leave, for a time, the uplands' bleak, mountainous, northerly terrain. First comes the steep descent ...; pines are replaced by beech and oak; the air grows warmer; the first of the elves greet them with laughter and song.",
+            "intro":"Find a cozy corner of Rivendell and take refuge with your loved onces. Watch teh stars or listen to the trees sigh. Let the natural magic of the elves steady you soul and mind. And don't forget to bring a token of your affection.",
             "lists":[
                 "Arwen and Aragorn's Retreat",
                 "Legolas and Gimli's Retreat",
@@ -55,7 +55,7 @@
             "image":"/img/rivendell/council.jpg",
             "text":"Sit in on an extremeley long Council where men, dwarves, and elves debate long and hard about what to do about a piece of jewelry, and attempt without success to overcome decades worth of prejudice against one another.",
             "price":"1500",
-            "duraiton":"1 Day"
+            "duration":"1 Day"
 
         },
         {
@@ -63,7 +63,7 @@
             "image":"/img/rivendell/healing.jpg",
             "text":"Have you had a long day? Does it feel like an undead Ring Wraith has driven its sword into your shoulder? Come visit Arwen's Health and Healing retreat. Allow elven minstrations to take you to world of relaxation.",
             "price":"500",
-            "duraiton":"3 Day"
+            "duration":"3 Day"
 
         },
         {
@@ -71,7 +71,7 @@
             "image":"/img/rivendell/river_horses.jpg",
             "text":"Test your metal on the River Rapids, courtesy of the lady Arwen herself. Ride the waves as if they wree a bucking bronc because they very nearly are. Wittness first hand the magic of the elves of Rivendell.",
             "price":"3300",
-            "duraiton":"4 Day"
+            "duration":"4 Day"
 
         },
         {
@@ -79,7 +79,7 @@
             "image":"/img/rivendell/slomo.jpg",
             "text":"Cheer as the members of the Fellowship ride in slow motion into Rivendell. See the wind blow through Legolas' hair and Boromir blinking as if had all the time in the world.",
             "price":"100",
-            "duraiton":"1 Day"
+            "duration":"1 Day"
 
         },
         {
@@ -87,7 +87,7 @@
             "image":"/img/rivendell/fashion.jpg",
             "text":"Wittness the arrival of the Fellowship as Legolas the Elf, Gimli the Dwarf, Boromir the Man, and Aragorn the King ride in stately fashion into Rivendell to meet the Ring Bearer.",
             "price":"40",
-            "duraiton":"6 Day"
+            "duration":"6 Day"
 
         },
         {
@@ -95,7 +95,7 @@
             "image":"/img/rivendell/axe.jpg",
             "text":"Come to the center of Elrond's Council and test your strength against the one ring. Smash your axe across it, strike it with your sword, deliver a blow with your fist. Spen delightful hours on end attempting to destroy this abomination.",
             "price":"4000",
-            "duraiton":"1 Day"
+            "duration":"1 Day"
 
         }
     ]
