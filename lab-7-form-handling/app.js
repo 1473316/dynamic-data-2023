@@ -23,9 +23,19 @@ app.get('/mad',(req,res)=>{
     const data = require('./data/mad-data.json')
     res.render('madform',{data})
 })
+
+app.get('/kind',(req,res)=>{
+    const data = require('./data/kind-data.json')
+    res.render('kindform',{data})
+})
+
 app.get('/madprocess',(req,res)=>{
    res.render('madprocess',{req}) 
 })
+
+app.get('/bekind',(req,res)=>{
+    res.render('bekind',{req}) 
+ })
 
 //Error handling ->  app.use() basic express route 
 app.use((req,res) => {
