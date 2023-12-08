@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+.montserrat {font-family: 'Montserrat', 'sans-serif';font-weight: 400}
+.montserrat-bold {font-family: 'Montserrat', 'sans-serif';font-weight: 600}
+
+
+.oswald {font-family: 'Oswald', 'sans-serif'; font-weight: 700}
+
+
+.white-bg {
+    background-color: #f7f7f7; 
+}
+
+.primary-color {
+    color: #5a7d9a; 
+}
+
+.primary-color-light, nav .secondary-color-light:hover {
+    color: #87a8c3; 
+}
+
+.accordion-button:not(.collapsed) {
+    color: #ffffff;
+    background-color: #b5cbe5; 
+}
+
+.primary-color-bg {
+    background-color: #5a7d9a; 
+}
+
+.primary-color-light-bg {
+    background-color: #87a8c3; 
+}
+
+.secondary-color {
+    color: #d18fad; 
+}
+
+.secondary-color-light {
+    color: #e8cae2;
+}
+
+.secondary-color-bg {
+    background-color: #d18fad; 
+}
+
+.secondary-color-light-bg {
+    background-color: #e8cae2; 
+}
+
+.light-pink {
+    color: #f7a7c0; 
+}
+
+.light-pink-bg {
+    background-color: #f7a7c0; 
+}
+
+
+
+.owl-nav{
+    display: none;
+}
+
+.section-divider{
+    padding: 1rem;
+}
+
+
+footer{
+    padding: 3rem;
+}
+
+
+.custom-card {
+    max-width: 300px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    box-sizing: border-box; 
+}
+
+.cart-item {
+    display: flex;
+    border: 1px solid #ddd; 
+    margin: 10px; 
+}
+
+.item-image {
+    padding: 10px; 
+    border-right: 1px solid #ddd; 
+}
+
+.item-info {
+    padding: 10px; 
+}
+
+.item-info ul {
+    list-style-type: none; 
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.product-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-content {
+    margin-bottom: 20px; 
+}
+
+.small-images,
+.large-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.small-image,
+.large-image {
+    border: 2px solid #ddd; 
+    padding: 5px; 
+    margin: 0 20px; 
+    margin-bottom: 10px;
+}
+
+.small-image {
+    max-width: 120px; 
+    height: auto;
+}
+
+.large-image {
+    max-width: 250px; 
+    height: auto;
+}

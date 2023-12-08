@@ -1,0 +1,90 @@
+{
+    "title":"The Mines of Moria",
+    "description": "The Mines of Moria are otherwise known as Khazum-Dum or Dwarrowdelf. Moria is a Kingdom which resides beenath the Misty Mountains and is home to a vast population of dwarves who delve deep into its depths to retrieve precious ore. ",
+    "slideshow":[
+        "/img/moria/moria_a.jpg"
+    ],
+    "services":[
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        {
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"/img/middle_earth/eagles.jpg",
+            "link_2":"show"
+        },
+        {
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"/img/middle_earth/eagles.jpg",
+            "link_2":"show"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        }
+    ]
+}

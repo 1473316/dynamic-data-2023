@@ -5,11 +5,11 @@ const expressHandlebars = require('express-handlebars')
 
 const app = express()
 
-const handler = require('./lib/handler')
-
 const bodyParser = require('body-parser')
 
 app.use(bodyParser.urlencoded({ extended: true}))
+
+const handler = require('./lib/handler')
 
 //configure our express app to use handlebars
 app.engine('handlebars', expressHandlebars.engine({
@@ -21,6 +21,8 @@ app.set('view engine','handlebars')
 
 const port = process.env.port || 3000
 
+const emails = []
+
 app.get('/',(req,res)=>{
     res.render('page',{req})
 })
@@ -29,25 +31,32 @@ app.get('/mad',(req,res)=>{
     const data = require('./data/mad-data.json')
     res.render('madform',{data})
 })
-
-app.get('/kind',(req,res)=>{
-    const data = require('./data/kind-data.json')
-    res.render('kindform',{data})
-})
-
 app.get('/madprocess',(req,res)=>{
    res.render('madprocess',{req}) 
 })
+//newsletter section
+//https://elements.envato.com/web-templates/shopping+html
 
 app.get('/newsletter-signup', handler.newsletterSignup)
 
 app.post('/newsletter-signup/process', handler.newsletterSignupProcess)
 
+app.get('/newsletter/list', handler.newsletterSignupList)
 
-app.get('/bekind',(req,res)=>{
-    res.render('bekind',{req}) 
- })
+app.get('/newsletter/details/:email',handler.newsletterUser)
 
+app.get('/product/:id',handler.showProduct)
+
+app.get('/category/:category',handler.showCategory)
+
+app.post('/cart', handler.addToCartProcess)
+
+
+app.get('/newsletter/delete/:email',handler.newsletterUserDelete)
+
+app.get('/newsletter/thankyou',(req,res) =>{
+    res.render('thankyou')
+})
 //Error handling ->  app.use() basic express route 
 app.use((req,res) => {
     res.status(404)

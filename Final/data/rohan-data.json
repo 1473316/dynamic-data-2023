@@ -1,0 +1,92 @@
+{
+    "title":"Rohan",
+       "description": "The Kingdom of Rohan is mighty indeed. Home of the Horse Lords and a great kingdom of men, Rohan lies between the White Mountains and the Misty Mountains. It is ruled by King Theoden and is also known as the Riddermark.",
+    "slideshow":[
+        "/img/slides/rohan1.jpg",
+        "/img/slides/rohan2.jpg",
+        "/img/slides/rohan3.jpg" 
+    ],
+    "services":[
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        {
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"/img/middle_earth/eagles.jpg",
+            "link_2":"show"
+        },
+        {
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"/img/middle_earth/eagles.jpg",
+            "link_2":"show"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        }
+    ]
+}

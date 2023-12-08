@@ -1,0 +1,56 @@
+<div class="section-divider" id="about"></div>
+<h1 class="primary-color-light oswald">{{data.title}}</h1>
+<p>{{data.description}}</p>
+
+
+
+{{#if data.packages}}
+<div class="section-divider" id="packages"></div>
+<div class="owl-carousel owl-theme owl-packages">
+{{#each data.packages}}
+<div class="card">
+  {{#if this.image}}
+  <img src="{{this.image}}" class="card-img-top" alt="..."> 
+  {{/if}}
+  
+  <div class="card-body">
+    <h5 class="card-title">{{this.title}}</h5>
+    <p class="card-text">{{this.text}}</p>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">${{this.price}}</li>
+    <li class="list-group-item">{{this.duration}}</li>
+  </ul>
+</div>
+{{/each}}
+</div>
+{{/if}}
+
+{{#if data.services}}
+<div class="container-fluid" id="services"></div>
+<div class="row row-cols-3 g-3">
+
+    {{#each data.services}}
+     <div class="card">
+      {{#if this.image}}
+       <img src="{{this.image}}" class="..." alt="Card image cap">
+       {{/if}}
+       <div class="card-body">
+         <h5 class="card-title">{{this.title}}</h5>
+         <p class="card-text">{{this.text}}</p>
+         <a class="btn btn-primary" href="{{this.link}}" role="button">Submit</a>
+       </div>
+     </div>
+     {{/each}}
+   </div>
+ </div>
+{{/if}}
+
+
+
+
+
+<footer class="primary-color-bg secondary-color-light">
+  Copyright 2023 - Dominique Kalunga
+</footer>
+

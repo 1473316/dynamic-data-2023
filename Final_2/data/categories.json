@@ -1,0 +1,22 @@
+{"categories":[
+    {
+        "name":"Books",
+        "url":"books",
+        "image":"/img/header/booksheader.jpg"
+
+        
+    },    
+    
+    {
+        "name":"Movies",
+        "url":"movies",
+        "image":"/img/header/movieheader.jpg"
+    },
+
+    {
+        "name":"Music",
+        "url":"music",
+        "image":"/img/header/musicheader.jpg"
+    }
+    
+]}

@@ -1,0 +1,100 @@
+{
+    "title":"The Shire",
+       "description": "The Shire is a lovely little valley located in the East of Middle-Earth. Home to halfings called Hobbits, it is comprised of rolling hills and valleys full of flowers. The denizens are incredibly friendly and all are content. Nestled in the far reaches of Middle-Earth, it is a perfect haven for those looking for some peace and tranquility.",
+   
+
+
+    "services":[
+        {
+            "title":"Food and Drink",
+            "intro":"There are many wonderful places to grab a bite to eat at the Shire. Not only is the food amazing, but the colourful company is sure to keep you entertained. And be sure to remember...they come in pints! ",
+            "lists":[
+                "Breakfast at Merry's",
+                "Elevensy's at Merry's",
+                "Afternoon Tea at Merry's"
+            ],
+            "image":"/img/shire/breakfast.jpg",
+            "show":"show"
+        },
+        {
+            "title":"Shopping",
+            "intro":"Although there is not an abundance of storefronts in the Shire, the ones that are there are known for their wonderful, if slightly cranky, customer service and brilliant array of treasures.",
+            "lists":[
+                "Dragon's Treasure Chest",
+                "We Know You've Got Gold",
+                "Bilbo Give Us Money"
+            ],
+            "image":"/img/shire/gold.jpg"
+        },
+        {
+            "title":"Disturbing the Peace",
+            "intro":"Here in the Shire no two days are the same, and you ahve plenty of oppertunity for your peace to be disturbed. WEther its by Gandalf, Merry or Pippin, or even Bilbo himself, the possibilities are endless.",
+            "lists":[
+                "Dragon Fireworks",
+                "More Fireworks",
+                "He's Gone Isn't He"
+            ],
+            "image":"/img/shire/fireworks.jpg"
+        },
+        {
+            "title":"Secret Keepers",
+            "intro":"Here in the Shire, you have plenty of oppertunities to employ a secret keeper, so that if your name ever falls into the hands of evil minds at Mordor, the Black Riders will have no idea where to find you. Disclaimer, if your Keeper has a dog he will give you up immediately.",
+            "lists":[
+                "Shiiiire",
+                "Bagiiins",
+                "They Are in Hobbington"
+            ],
+            "image":"/img/shire/questions.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Bilbo Baggin's Birthday",
+            "image":"/img/shire/birthday.jpg",
+            "text":"You heard right! It's Bilbo Baggin's eleven hundred and eleventy-ith birthday! Come down to the meadow and celebrate with drink and dance, not to mention fireworks provided by Gandalf himself. Finally, stay tuned for a speech by Bilbo himself...with a special surprise at the end!",
+            "price":"1500",
+            "duration":"1 Day"
+
+        },
+        {
+            "title":"Gamgee's Garden",
+            "image":"/img/shire/garden.jpg",
+            "text":"Whose the best gardener this side of the Shire? Sam Gamgee that's who! Enjoy a wonderful afternoon gardening with Sam and learn the subtlties of tending to a flower bed and eves-dropping under your employers window. Fingers crossed you don't get turned into anything...unnatural.",
+            "price":"500",
+            "duration":"3 Days"
+
+        },
+        {
+            "title":"McGregor's Farm",
+            "image":"/img/shire/carrots.jpg",
+            "text":"Farmer McGregor's crop is known for having the tasted, juciest vegatables in the whole of the Shire. Spend and afternoon pilfering his crop. Fill your arms with as many carrots, cabbages, and onions as you can manage and run, Merry, run!",
+            "price":"3300",
+            "duration":"4 Days"
+
+        },
+        {
+            "title":"Black Rider Hike",
+            "image":"/img/shire/riders.jpg",
+            "text":"Take a lovely hike along the road to the ferry with a horde of Black Riders on your heel. Take in the sights as you flee for you life, and whatever you do, keep your hands off your jewlery!",
+            "price":"100",
+            "duration":"1 Day"
+
+        },
+        {
+            "title":"Bombadil's House",
+            "image":"/img/shire/bombadil.jpg",
+            "text":"Take a extremeley random detour which will no doubt end up being your favorite part of your trip! Spend some time in Bombadil's House and treat yourself to hours of non stop poetry as well as bushels of unexplicably potent magical abilities that will never be explained in your lifetime",
+            "price":"40",
+            "duration":"6 Days"
+
+        },
+        {
+            "title":"Gildor's Retreat",
+            "image":"/img/shire/gildor.jpg",
+            "text":"On the edge of the Shire, rest your weary legs with Gildor's company. Allow the elves to serenade you with their song, and calm you with their ethereal quality.",
+            "price":"4000",
+            "duration":"2 Days"
+
+        }
+    ]
+}

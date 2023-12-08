@@ -1,0 +1,89 @@
+{
+    "title":"Dragons' Den",
+    "description": "Dragon's Den is your one stop shop for all books, movies, and music that are nerdy with a  capital N!",
+    "slideshow":[
+        { "image": "/img/main/sundance.jpg", "link": "/product/46" },
+        { "image": "img/main/stargate.jpg", "link": "/product/63" },
+        { "image": "img/main/harrypottermain.jpg", "link": "/product/31" }
+    ],
+
+    "packages":[
+        {
+            "title":"Harry Potter and the Philopher's Stone",
+            "image":"/img/homepage/harryPotter.jpg",
+            "link": "/product/31",
+            "text":"Featured Product",
+            "price":"9.99",
+            "type":"DVD, Blu-Ray, Digital"
+
+        },
+        {
+            "title":"Love Theme from Superman",
+            "image":"/img/homepage/superman.jpg",
+            "link": "/product/61",
+            "text":"Featured Product",
+            "price":"19.99",
+            "type":"CD, Digital"
+
+        },
+        {
+            "title":"Laramie (1959)",
+            "image":"/img/homepage/laramie.jpg",
+            "link": "/product/50",
+            "text":"Featured Product: DVD, Laramie (1959)",
+            "price":"9.99",
+            "type":"DVD"
+
+        },
+        {
+            "title":"Peter Pan (2003)",
+            "image":"/img/homepage/peterPan.jpg",
+            "link": "/product/52",
+            "text":"Featured Product: DVD, Peter Pan (2003)",
+            "price":"9.99",
+            "type":"DVD, Blu-Ray"
+
+        },
+        {
+            "title":"Lord of Chaos",
+            "image":"/img/homepage/lordOfChaos.jpg",
+            "text":"Featured Product: Book 6, Wheel of Time",
+            "link": "/product/32",
+            "price":"29.99",
+            "type":"Paper Back"
+
+        },
+        {
+            "title":"Luke and Leia",
+            "image":"/img/homepage/lukeAndLeia.jpg",
+            "text":"Featured Product: Soundtrack, Empire Strikes Back",
+            "link": "/product/55",
+            "price":"19.99",
+            "type":"CD, Digital"
+
+        }
+    ],
+    "services":[
+        { 
+            "image":"/img/homepage/book_cat.jpg",
+            "link":"/category/books",
+            "title":"Books",
+            "subtitle":"Category"
+            
+        },
+        {
+            "image":"/img/homepage/movie_cat.jpg",
+            "link":"/category/movies",
+            "title":"Movies",
+            "subtitle":"Cateogry"
+            
+            
+        },
+        {
+            "image":"/img/homepage/music_cat.jpg",
+            "title":"Music",
+            "link":"/category/music",
+            "subtitle":"Category "
+        }
+    ]
+}

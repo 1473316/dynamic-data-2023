@@ -1,0 +1,93 @@
+{
+    "title":"Rivendell",
+       "description": "Established in the Second Age, Rivendell is heaven of peace. Ruled by the elf Elrond, it keeps its own calander and has stayed standing despite many numerous attacks on it. Most famously it is known for being the meeting place of the Council of Elrond.",
+    "slideshow":[
+        "/img/rivendell/rivendell_1.jpg",
+        "/img/rivendell/rivendell_2.jpeg",
+        "/img/rivendell/rivendell_3.jpeg" 
+    ],
+    "services":[
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        {
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"/img/middle_earth/eagles.jpg",
+            "link_2":"show"
+        },
+        {
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"/img/middle_earth/eagles.jpg",
+            "link_2":"show"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        },
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"./data/moria-data.json",
+            "link_2":"./data/rohan-data.json"
+        }
+    
+    ]
+}

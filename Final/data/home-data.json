@@ -1,0 +1,88 @@
+{
+    "title":"Welcome to Middle-Earth",
+    "description": "Middle-Earth is a treasure trove of cultures and peoples. From hobbits to elves to men to dwarves, there's no telling what you might find just around the corner. Visit the dwarven mines of Moria, sleep under the eaves of Lothlorien, or glory in the greatness of Gondor.",
+    "slideshow":[
+        "/img/middle_earth/middle_earth_3.jpeg",
+        "img/middle_earth/middle_earth_2.jpg",
+        "img/middle_earth/middle_earth_1.jpg" 
+    ],
+
+    "packages":[
+        {
+            "title":"Fanghorn Forest",
+            "image":"/img/homepage/Forest.jpg",
+            "text":"Come visit Fanghorn Forest. Sit in on the riveting council of the Ents. Many say there is something in the waters that make the trees there grow tall, but why don't you take a taste and decided for yourself? ",
+            "price":"1500",
+            "duration":"1 Day"
+
+        },
+        {
+            "title":"Mount Doom",
+            "image":"/img/homepage/MSunday.jpg",
+            "text":"Tired of chilly weather? Come warm your hands in the fires of Mount Doom. Climb the sheer sides of the Mountain and try to avoid arachnids along the way. When you finally reach the summit, you might feel like doing a little dance! Kindly, refrain.",
+            "price":"500",
+            "duration":"3 Days"
+
+        },
+        {
+            "title":"Mordor",
+            "image":"/img/homepage/Mordor.jpg",
+            "text":"Unfortunately, one does not simply walk into Mordor, and you will need to schedule this excursion well in advance. When you do arrive however, you are sure to have a rip-roaring time, possibly quite literally! ",
+            "price":"3300",
+            "duration":"4 Days"
+
+        },
+        {
+            "title":"Lothlorien",
+            "image":"/img/homepage/Shire.jpg",
+            "text":"A visit to Lothlorien is sure to be like no other. Come have your future told to you in a most distrubing manner by the beautiful lady Galadriel. Replenish your supplies with the aid of the lady as well. Finally, listen to the heartwrenching lament of the elves by moonlight. ",
+            "price":"100",
+            "duration":"1 Day"
+
+        },
+        {
+            "title":"The Prancing Pony",
+            "image":"/img/homepage/HelmsDeep.jpg",
+            "text":"Take your rest at the Prancing Pony as you await your companions. We highly advise you not use your real name when checking in. Drink, dance, and be merry. Make some new friends and watch out for Black Riders when the lights go out!",
+            "price":"40",
+            "duration":"6 Days"
+
+        },
+        {
+            "title":"Isengard",
+            "image":"/img/homepage/Isengard.jpg",
+            "text":"Visit the home of the first White Wizard. If you're lucky, you may be able to book the penthouse suite at the top of the tower, where you will be kept against your will. Transportation away from the tower will not be provided. Moths and eagles recommended.",
+            "price":"500",
+            "duration":"2 Days"
+
+        }
+    ],
+    "services":[
+        { 
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"moria"
+        },
+        {
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"moria"
+            
+        },
+        {
+            "image":"/img/homepage/Isengard.jpg",
+            "title":"Transportation",
+            "title_2":"Transportation",
+            "subtitle":"There are many ways to get where you're going in Middle Earth, and every mode of transportation takes the scenic route. ",
+            "text": "",
+            "link":"/img/middle_earth/eagles.jpg",
+            "link_2":"show"
+        }
+    ]
+}

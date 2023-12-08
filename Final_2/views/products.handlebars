@@ -1,0 +1,32 @@
+{{#each products}}
+<div class="product-layout">
+    <div class="main-content">
+        <div class="card product custom-card">
+            <img class="card-img-top product-image" src="{{image}}" alt="{{name}}">
+            <div class="card-body">
+                <h5 class="card-title">{{name}}</h5>
+                <p class="card-text">{{description}}</p>
+                <p class="card-text price">$ {{price}}</p>
+                <form action="/cart" method="post">
+                    <input name="product" type="hidden" value="{{id}}">
+                    <button type="submit" class="btn btn-primary">Add to Cart</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="small-images">
+        {{#each smallImages}}
+            <img class="img-fluid small-image" src="{{this}}" alt="">
+        {{/each}}
+    </div>
+
+    <div class="large-images">
+        {{#each largeImages}}
+        <a href="{{this.link}}">
+            <img class="img-fluid large-image" src="{{this.image}}" alt="">
+        </a>
+        {{/each}}
+    </div>
+</div>
+{{/each}}
